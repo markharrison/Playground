@@ -1,3 +1,3 @@
 # Discussions
 
-![](https://repository-images.githubusercontent.com/323181966/3a39a880-431a-11eb-94b2-7e5e55f7e698)
+![](https://repository-images.githubusercontent.com/323181966/a4d31800-599c-11eb-930b-d2c1ab78f745)
