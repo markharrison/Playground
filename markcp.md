@@ -24,5 +24,17 @@ I am using .NET 8.0  minimal APIs.
 ```
 
 ```
-how do I make the swagger home page at root /
+add hexcode validation
 ```
+
+```
+I want a validateHexCode function - i want in a static class called ColorUtilities
+```
+
+```
+what namespace to i need for regex
+```
+
+Fix Bug
+
+
