@@ -28,13 +28,39 @@ add hexcode validation
 ```
 
 ```
-I want a validateHexCode function - i want in a static class called ColorUtilities
+I want a validateHexCode function using Regex - i want in a static class called ColorUtilities.
+Namespace should be Colors.API
 ```
 
 ```
-what namespace to i need for regex
+what namespace to do I need for regex
 ```
 
-Fix Bug
+Fix Bug / make resilient.
+
+
+```
+write a unit test using MSTEST to validate the ColorUtilities.validateHexcode function.  i need to test all scenerios / edge cases / errors
+```
+
+```
+explain this code
+```
+
+```
+Divide - make resilient
+```
+
+Animal class
+Dog class 
+Make Sound
+
+Languages 
+
+convert Vue 2 to Vue 3
+
+
+
+
 
 
