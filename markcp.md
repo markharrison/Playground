@@ -11,7 +11,7 @@ I also need a MSTest unit test project.
 What are the dotnet commands to scaffold a solution.  The files should be called "Color".
 ```
 
-Run commands.  Open Solution - use F1 `.NET Open Solution` .   Add project reference
+Run commands.  Open Solution - use F1 `.NET Open Solution` .   Add project reference from Test to API
 
 Open `Program.cs` - remove Route & Model
 
