@@ -28,14 +28,16 @@ I am using .NET 8.0  minimal APIs.
 ```
 Insert code .   Create new default data.
 ```
-i want to create a new class for color utility functions
+i want a new static class called ColorUtilities.
 ```
-Create `ColorUtilities.cs`
+Create `ColorUtilities.cs` and add code 
 
 ```
-I want a validateHexCode function using Regex - i want in a static class called ColorUtilities.
+I want a validateHexCode function using Regex - add to static class  ColorUtilities.
 ```
-
+```
+function to test if color is a shade of red
+```
 ```
 add hexcode validation
 ```
