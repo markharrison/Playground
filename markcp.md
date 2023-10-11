@@ -31,16 +31,13 @@ Insert code .   Create new default data.
 i want to create a new class for color utility functions
 ```
 Create `ColorUtilities.cs`
-```
-add hexcode validation
-```
 
 ```
 I want a validateHexCode function using Regex - i want in a static class called ColorUtilities.
 ```
 
 ```
-what namespace to do I need for regex
+add hexcode validation
 ```
 
 Fix Bug / make resilient.
