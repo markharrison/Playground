@@ -36,7 +36,7 @@ Create `ColorUtilities.cs` and add code
 I want a validateHexCode function using Regex - add to static class  ColorUtilities.
 ```
 ```
-function to test if color is a shade of red
+// function to test for shade of red
 ```
 ```
 add hexcode validation
