@@ -49,6 +49,10 @@ write a unit test using MSTEST to validate the ColorUtilities.ValidateHexCode fu
 ```
 
 ```
+separate into different tests 
+```
+
+```
 explain this code
 ```
 
