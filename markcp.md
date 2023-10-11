@@ -67,6 +67,8 @@ Make Sound
 
 Languages 
 
+Open Completions Panel
+
 convert Vue 2 to Vue 3
 
 
