@@ -45,7 +45,7 @@ add hexcode validation
 Fix Bug / make resilient.
 
 ```
-write a unit test using MSTEST to validate the ColorUtilities.validateHexCode function.  i need to test all scenerios / edge cases / errors
+write a unit test using MSTEST to validate the ColorUtilities.ValidateHexCode function.  i need to test all scenerios / edge cases / errors
 ```
 
 ```
