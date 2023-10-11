@@ -11,10 +11,14 @@ I also need a MSTest unit test project.
 What are the dotnet commands to scaffold a solution.  The files should be called "Color".
 ```
 
+Run commands.  Open Solution - use F1 `.NET Open Solution`
+
+Open `Program.cs` - remove Route & Model
+
 ```
 create colors model called ColorModel to include a name and hexcode.
 ```
-
+Insert code 
 ```
 create two API routes.
 First - an API to return all colors.   Intialise with 3 colors - "red", "yellow", "black"
@@ -22,14 +26,17 @@ Sencond - an API to insert a new color.
 I am using .NET 8.0  minimal APIs.
 
 ```
-
+Insert code .   Create new default data.
+```
+i want to create a new class for color utility functions
+```
+Create `ColorUtilities.cs`
 ```
 add hexcode validation
 ```
 
 ```
 I want a validateHexCode function using Regex - i want in a static class called ColorUtilities.
-Namespace should be Colors.API
 ```
 
 ```
