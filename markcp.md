@@ -57,6 +57,7 @@ explain this code
 ```
 
 ```
+Add function to add two numbers 
 Divide - make resilient
 ```
 
