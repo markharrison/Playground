@@ -11,7 +11,7 @@ I also need a MSTest unit test project.
 What are the dotnet commands to scaffold a solution.  The files should be called "Color".
 ```
 
-Run commands.  Open Solution - use F1 `.NET Open Solution`
+Run commands.  Open Solution - use F1 `.NET Open Solution` .   Add project reference
 
 Open `Program.cs` - remove Route & Model
 
@@ -45,7 +45,7 @@ add hexcode validation
 Fix Bug / make resilient.
 
 ```
-write a unit test using MSTEST to validate the ColorUtilities.validateHexcode function.  i need to test all scenerios / edge cases / errors
+write a unit test using MSTEST to validate the ColorUtilities.validateHexCode function.  i need to test all scenerios / edge cases / errors
 ```
 
 ```
