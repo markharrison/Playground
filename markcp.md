@@ -6,8 +6,7 @@ Create an empty directory.  With VSCode open the directory.
 
 ``` 
 I am using .NET 8.0  .
-I want to create a single API app.
-I also need a MSTest unit Test project.
+I want to create a single API app - also need a MSTest unit Test project.
 I need a project reference from Test project to API project.
 
 What are the dotnet commands to scaffold a solution.  The files should be called "Color".
