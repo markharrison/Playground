@@ -10,7 +10,6 @@ I want to create a single API app - also need a MSTest unit Test project.
 I need a project reference from Test project to API project.
 
 What are the dotnet commands to scaffold a solution.  The files should be called "Color".
-
 ```
 
 Run commands.  Open Solution - use F1 `.NET Open Solution` .   Add project reference from Test to API
