@@ -27,6 +27,11 @@ Sencond - an API to insert a new color.
 I am using .NET 8.0  minimal APIs.
 
 ```
+
+```
+//add a route to return a random color
+```
+
 Insert code .   Create new default data.
 ```
 i want a new static class called ColorUtilities.
